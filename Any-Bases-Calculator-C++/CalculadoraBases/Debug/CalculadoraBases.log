@@ -1,0 +1,10 @@
+﻿  CalculadoraBases.cpp
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(39,59): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(55,25): warning C4018: '>=': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(132,31): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(200,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(205,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(308,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(119): warning C4715: 'verificarSinal': nem todos os caminhos de controle retornam um valor
+C:\Users\vinic\source\repos\CalculadoraBases\CalculadoraBases\CalculadoraBases.cpp(192): warning C4715: 'verificarMaiorModulo': nem todos os caminhos de controle retornam um valor
+  CalculadoraBases.vcxproj -> C:\Users\vinic\source\repos\CalculadoraBases\Debug\CalculadoraBases.exe
